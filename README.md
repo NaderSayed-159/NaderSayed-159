@@ -23,5 +23,5 @@
   <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=NaderSayed-159&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="NaderSayed-159" /></p>
-<p align="left"> <img  src="https://github-readme-stats.vercel.app/api?username=NaderSayed-159&show_icons=true&theme=github_dark&locale=en" alt="NaderSayed-159" /></p>
+<p > <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NaderSayed-159&show_icons=true&theme=github_dark&locale=en" alt="NaderSayed-159" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=NaderSayed-159&theme=github_dark" alt="NaderSayed-159" /></p>
