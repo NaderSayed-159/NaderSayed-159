@@ -22,6 +22,8 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
   <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaderSayed-159&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="NaderSayed-159" /></p>
+<p  align="center" >
+   <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaderSayed-159&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="NaderSayed-159" /></p>
 <p > <img  align="left" src="https://github-readme-stats.vercel.app/api?username=NaderSayed-159&show_icons=true&theme=github_dark&locale=en" alt="NaderSayed-159" /></p>
+</p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=NaderSayed-159&theme=github_dark" alt="NaderSayed-159" /></p>
