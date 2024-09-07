@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaderSayed-159&label=Profile%20views&color=0e75b6&style=flat" alt="NaderSayed-159" /> </p>
 
-- 🌱 I’m currently Developing **.Net Core Web Apps**
-- 💬 Ask me about **.Net Core, C#, SQL, EF Core, LINQ**
+- 🌱 I’m currently Developing **Angular - .Net Core Web Apps**
+- 💬 Ask me about **HTML, CSS, JS, TS, Angular, .Net Core, C#, SQL, EF Core, LINQ**
 - 📫 How to reach me **Nadersayed001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
